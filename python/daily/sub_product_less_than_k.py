@@ -32,7 +32,7 @@ Constraints:
 """
 import math
 
-# First attempt, brute force approach
+# First attempt, brute force approach -> Too slow
 
 def sub_less_than_k(nums: list[int], k: int):
     n = len(nums)
