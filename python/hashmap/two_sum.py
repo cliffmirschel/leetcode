@@ -13,3 +13,4 @@ class Solution:
             cache[num] = i
 
         return []
+    
