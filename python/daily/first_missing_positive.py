@@ -38,7 +38,7 @@ Constraints:
 
 def firstMissingPositive(nums: list[int]) -> int:
     cache = {}
-
+    
     for num in nums:
         cache[num] = True
 
