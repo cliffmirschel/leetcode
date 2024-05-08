@@ -37,4 +37,4 @@ class ListNode:
         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: [ListNode], l2: [ListNode]) -> [ListNode]:
-        return 'listnode'
+        return ListNode(val = 24)
